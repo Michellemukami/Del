@@ -7,8 +7,8 @@ By Michelle Mukami
 The website links client to software developers where by the client views the developers Portfolio and can send messages via email .  
 
 ## Setup instructions
-Clone the program from Online repo
-Click on the green button to clone or download
+* Clone the program from Online repo
+* Click on the green button to clone or download 
 
 ## Behavior Driven Development
 
