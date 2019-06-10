@@ -4,7 +4,7 @@ $('.main').click(function() {
 });
 $("button").click(function(kami) {
   var client = document.getElementById('client').value;
-  alert(client + ' we have received your message' + 'Thank you');
+  alert(client + ' we have received your message' + ' Thank you');
   kami.preventDefault();
 });
 $("button").on('click', function() {
