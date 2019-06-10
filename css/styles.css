@@ -66,6 +66,12 @@
 .social {
   align-items: center;
 }
+.social img{
+  transition: width 3s,height 3s,transform 3s;
+}
+.social img:hover{
+  transform: rotate(360deg);
+}
 
 .hide {
   display: none;
